@@ -104,10 +104,7 @@ function ListingPage() {
         {filteredProducts.map((product) => (
           <div key={product.id} className="product-card">
             <div className="product-image">
-              <img
-                src={product.image}
-                alt={product.title}
-              />
+              <img src={product.image} alt={product.title} />
             </div>
             <div className="product-row">
               <div className="product-name">{product.title}</div>

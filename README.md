@@ -4,7 +4,7 @@ This project was created with [Create React App](https://github.com/facebook/cre
 
 ## Available Scripts
 
-Open the terminal and navigate to the project directory, run:
+Open the terminal and make sure you are in the project directory, run:
 
 ### `npm start`
 
