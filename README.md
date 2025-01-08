@@ -21,9 +21,12 @@ This is a simple React-based e-commerce application that displays a list of prod
 
 ## How to Run
 1. Clone the repository: https://github.com/Xiang031226/ecommerce-website.git
-
-## Available Scripts
-
+2. Install dependencies:
+ - npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+ - npm install @mui/icons-material
+ - npm install react-router-dom
+ - npm i web-vitals --save-dev
+3. Run the app
 Open the terminal and make sure you are in the project directory, run:
 
 ### `npm start`
