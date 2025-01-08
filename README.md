@@ -11,6 +11,11 @@ This is a simple React-based e-commerce application that displays a list of prod
 - Product details page
 - Responsive design
 
+## Technologies Used
+- React
+- React Router
+- Fetch API
+
 ## Screenshot
 1. Product Listing Page:
 ![Product Listing Screenshot](public/assets/product_listing.png)
