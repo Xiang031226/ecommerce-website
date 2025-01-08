@@ -13,11 +13,13 @@ This is a simple React-based e-commerce application that displays a list of prod
 
 ## Screenshot
 1. Product Listing Page:
-![Product Listing Screenshot](public/assets/product_listing.png)
+(public/assets/product_listing.png)
+
 2. Product Details Page:
-![Product Details Screenshot](public/assets/product_details.png)
+(public/assets/product_details.png)
+
 3. Filter Product Based On Category:
-![Product Filtered Screenshot](public/assets/product_filtered.png)
+(public/assets/product_filtered.png)
 
 ## How to Run
 1. Clone the repository: https://github.com/Xiang031226/ecommerce-website.git
