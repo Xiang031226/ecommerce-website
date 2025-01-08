@@ -17,19 +17,7 @@ This is a simple React-based e-commerce application that displays a list of prod
 - Fetch API
 
 ## Folder Structure
-src/
-│
-├── css/
-│   ├── ListingPage.css
-│   └── ProductDetails.css
-│
-├── pages/
-│   ├── ListingPage.js
-│   └── ProductPage.js
-│
-├── App.js
-├── index.js
-└── App.css
+![Product Listing Screenshot](public/assets/folder_structure.png)
 
 
 ## Screenshot
