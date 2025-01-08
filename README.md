@@ -20,7 +20,7 @@ This is a simple React-based e-commerce application that displays a list of prod
 ![Product Filtered Screenshot](public/assets/product_filtered.png)
 
 ## How to Run
-1. Clone the repository:
+1. Clone the repository: https://github.com/Xiang031226/ecommerce-website.git
 
 ## Available Scripts
 
