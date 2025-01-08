@@ -16,6 +16,22 @@ This is a simple React-based e-commerce application that displays a list of prod
 - React Router
 - Fetch API
 
+## Folder Structure
+src/
+│
+├── css/
+│   ├── ListingPage.css
+│   └── ProductDetails.css
+│
+├── pages/
+│   ├── ListingPage.js
+│   └── ProductPage.js
+│
+├── App.js
+├── index.js
+└── App.css
+
+
 ## Screenshot
 1. Product Listing Page:
 ![Product Listing Screenshot](public/assets/product_listing.png)
